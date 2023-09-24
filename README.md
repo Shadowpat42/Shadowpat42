@@ -11,3 +11,5 @@ src="https://camo.githubusercontent.com/28e6f144aefcedd9d0fd391a0415271fd795970a
 ### 💬 Ask me about anything related to Python
 ### ⚡ Fun fact: I ❤️🐱s
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Shadowpat42&show_icons=true&theme=gotham" alt="Shadowpat42" align="left"/>
+
