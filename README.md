@@ -13,7 +13,17 @@
 ### 🌱 I’m currently learning Python, C#
 ### 💬 Ask me about anything related to Python
 ### ⚡ Fun fact: I ❤️🐱s
-<p align="center"> <img src="https://github.com/Shadowpat42/github-stats-transparent/blob/output/generated/languages.svg" alt="Shadowpat42" align="left"/>
-<p align="center"> <img src="https://github.com/Shadowpat42/github-stats-transparent/blob/output/generated/overview.svg" alt="Shadowpat42" align="left"/> <br> <br>
+<div>
+  <p align="center"> <img src="https://github.com/Shadowpat42/github-stats-transparent/blob/output/generated/languages.svg" alt="Shadowpat42" align="left"/>
+  <p align="center"> <img src="https://github.com/Shadowpat42/github-stats-transparent/blob/output/generated/overview.svg" alt="Shadowpat42" align="left"/> <br><br><br><br><br><br><br><br><br><br>  
+</div>
+
+
+Feel free to contact me :yum:
+<br><br>
+<a href="https://t.me/shadowpat42" target="_blank"><img src="https://img.shields.io/badge/Telegram-%40shadowpat42-28a8ea"></a>
+<a rel="me" href="https://vk.com/shadowpat" target="_blank"><img src="https://img.shields.io/badge/VK-%40shadowpat-28a8ea"></a>
+<a href="mailto:shadowpat@rambler.ru" target="_blank"><img src="https://img.shields.io/badge/Email-shadowpat%40rambler.ru-28a8ea"></a>
+
 
 
