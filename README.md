@@ -4,7 +4,7 @@
 ### I'm currently learning
 [![My Skills](https://skillicons.dev/icons?i=cs,bootstrap,flask,git,github,postman,py)](https://skillicons.dev)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shadowpat42&show_icons=true&theme=gotham" alt="Shadowpat42" align="right"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Shadowpat42&show_icons=true&theme=gotham" width=450px alt="Shadowpat42" align="right"/>
 </p>
 
 
