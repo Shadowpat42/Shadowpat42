@@ -1,29 +1,36 @@
 ## Hi there 👋
-![github-header-image](https://github.com/Shadowpat42/Shadowpat42/assets/139674850/82dad9ae-035d-4241-a174-ab19def42a14)
 
-### I'm currently learning
-[![My Skills](https://skillicons.dev/icons?i=cs,bootstrap,flask,git,github,postman,py)](https://skillicons.dev)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shadowpat42&show_icons=true&theme=gotham" width=450px alt="Shadowpat42" align="right"/>
+<img src="https://github.com/Shadowpat42/Shadowpat42/assets/139674850/82dad9ae-035d-4241-a174-ab19def42a14" alt="Header" width="100%" />
+
+### About me
+Python/Backend developer and CS tutor. Focus on clear code, simple architecture, and teaching fundamentals through real tasks. Based in Yekaterinburg, Russia.
+
+- 🔭 Current: tutoring (Python, CS basics), small backend apps (Flask/Django).
+- 🌱 Learning: Java basics, strengthening DB design and testing routines.
+- 💬 Ask about: Python fundamentals, onboarding for beginners, study roadmaps.
+- ⚡ Fun: cats enthusiast 😺
+
+### Tech stack
+- Languages: Python, Java, C#
+- Backend: Flask, Django
+- Web: HTML, CSS, WordPress
+- DB: PostgreSQL, MySQL, SQLite
+- Tools: Git, GitHub, Vagrant, VS Code
+- EdTech: LaTeX notes, structured HW, online boards for live coding
+
+### Projects
+- VibeSocial (Flask): auth, profiles, posts, CRUD, Jinja templates  
+- Digital portfolio (Django): admin, models/forms, deploy, docs  
+- Ren’Py visual novel: branching, states, builds  
+- Moodle Analytics Plugin: user/course activity stats, dashboards, export
+
+### Stats
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Shadowpat42&show_icons=true&theme=gotham" alt="GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadowpat42&layout=compact&theme=gotham" alt="Top languages" height="165" />
 </p>
 
-
-### A little about me
-### 🔭 I’m currently working on somethink cool
-### 🌱 I’m currently learning Python, C#
-### 💬 Ask me about anything related to Python
-### ⚡ Fun fact: I ❤️🐱s
-<div>
-  <p align="center"> <img src="https://github.com/Shadowpat42/github-stats-transparent/blob/output/generated/languages.svg" alt="Shadowpat42" align="left"/>
-  <p align="center"> <img src="https://github.com/Shadowpat42/github-stats-transparent/blob/output/generated/overview.svg" alt="Shadowpat42" align="left"/> <br><br><br><br><br><br><br><br><br><br>  
-</div>
-
-
-Feel free to contact me :yum:
-<br><br>
-<a href="https://t.me/shadowpat42" target="_blank"><img src="https://img.shields.io/badge/Telegram-%40shadowpat42-28a8ea"></a>
-<a rel="me" href="https://vk.com/shadowpat" target="_blank"><img src="https://img.shields.io/badge/VK-%40shadowpat-28a8ea"></a>
-<a href="mailto:shadowpat@rambler.ru" target="_blank"><img src="https://img.shields.io/badge/Email-shadowpat%40rambler.ru-28a8ea"></a>
-
-
-
+### Contact
+<a href="https://t.me/shadowpat42" target="_blank"><img src="https://img.shields.io/badge/Telegram-@shadowpat42-28a8ea?logo=telegram&logoColor=white" /></a>
+<a href="https://vk.com/shadowpat" target="_blank"><img src="https://img.shields.io/badge/VK-@shadowpat-0077FF?logo=vk&logoColor=white" /></a>
+<a href="mailto:shadowpat@rambler.ru" target="_blank"><img src="https://img.shields.io/badge/Email-shadowpat@rambler.ru-6A6A6A?logo=gmail&logoColor=white" /></a>
